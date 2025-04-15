@@ -113,10 +113,13 @@ Five machine learning models were evaluated:
 
 ## 📊 Dashboard / Visuals  
 - Word Cloud of All tweets
-![EDA Plot](images/word cloud of all tweets.png)
 
--Confusion Plot of Top two models
+![EDA Plot](images/word%20cloud%20of%20all%20tweets.png)
+
+- Confusion Plot of Top two models
+
 ![EDA Plot](images/sentiment_analysis_conf_mat1.png)
+
 ![EDA Plot](images/sentiment_analysis_conf_mat2.png)
   
 
