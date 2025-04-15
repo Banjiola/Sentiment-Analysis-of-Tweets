@@ -66,8 +66,8 @@ Exploration focused on:
 - Tweet length distributions  
 
 📌 *Visualizations included:*  
-- Sentiment distribution bar chart  
-- Word clouds for each sentiment category  
+- Word clouds for each sentiment category
+- Confusion matrix for top two models
 
 ---
 
